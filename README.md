@@ -18,8 +18,8 @@ Follow these steps to set up and run the project:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/product-management-app.git
-   cd product-management-app
+   git clone https://github.com/S10may1999/task
+   cd task
    ```
 
 2. **Install Dependencies**
