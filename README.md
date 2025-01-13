@@ -87,8 +87,8 @@ Follow these steps to set up and run the project:
 ## Project Structure
 
 ```
-product-management-app/
-```
+
+
 ├── routes/               # Route handlers for the application
 ├── views/                # EJS templates for server-side rendering
 ├── controllers/          # Business logic and request handling
@@ -97,7 +97,6 @@ product-management-app/
 ├── package.json          # Project dependencies and scripts
 ├── .env                  # Environment variables (not included in the repository)
 └── README.md             # Project documentation
-```
 ```
 
 ---
